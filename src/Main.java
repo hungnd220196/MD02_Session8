@@ -54,7 +54,7 @@ public class Main {
         double side2 = scanner.nextDouble();
         System.out.print("Enter side3: ");
         double side3 = scanner.nextDouble();
-        scanner.nextLine();  // Consume newline
+        scanner.nextLine();
 
         System.out.print("Enter color: ");
         String color = scanner.nextLine();
